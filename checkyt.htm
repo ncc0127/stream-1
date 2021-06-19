@@ -1,3 +1,7 @@
+<html>
+<body>
+<Script Language="JavaScript">
+
 var channelid = "UCAZkxcT6XmXriAgUly71nvQ"; // REPLACE WITH YOUR CHANNEL ID
 
 function onlive() {
@@ -15,3 +19,7 @@ onlive();
 }).catch(function (err) {
 	console.warn('Something went wrong', err);
 });
+
+</script>
+</body>
+</html>
